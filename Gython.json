@@ -1,0 +1,12 @@
+{
+    "danny": {
+        "name": "danny",
+        "goal": "20",
+        "arm": "right"
+    },
+    "Sam": {
+        "name": "Sam",
+        "goal": "10",
+        "arm": "right"
+    }
+}
